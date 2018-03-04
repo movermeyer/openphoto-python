@@ -11,7 +11,7 @@ Trovebox Python Library
    :alt: Coverage Status
    :target: https://coveralls.io/r/photo/openphoto-python?branch=master
 
-.. image:: https://pypip.in/v/trovebox/badge.png
+.. image:: https://img.shields.io/pypi/v/trovebox.svg
    :alt: Python Package Index (PyPI)
    :target: https://pypi.python.org/pypi/trovebox
 
